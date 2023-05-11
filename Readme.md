@@ -19,14 +19,15 @@ Here are the steps to be taken after that:
 
 
 1. Clone the repository:
-
-git clone https://github.com/{username}/github-basics.git
+    ```bash
+    git clone https://github.com/{username}/github-basics.git
+    ```
 
 2. Add your name in contributor.html file:
 
-1. Aniq Javed
-2. Ahmed Raza
-...
+    1. Aniq Javed
+    2. Ahmed Raza
+    ...
 
 3. Initialize git:
     ```bash
@@ -46,22 +47,7 @@ git clone https://github.com/{username}/github-basics.git
     ```
 
 ## Live Preview
-Try it out at: https://check-weather-web-app.azurewebsites.net/weather
-
-
-## Deployment
-
-
-### Local Server
-To run in a local server use : nodemon src/app.js -e js.hbs
-
-Or
-
-As i have added the nodemon as dev dependency so you can simply use: npm start dev
-
-It is becasuse previously we have nodemon as global but then we installed it as: npm i nodemon --save-dev
-
-It means it will run only during the development enviroment. 
+Try it out at: 
 
 
 
