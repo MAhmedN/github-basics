@@ -47,22 +47,22 @@ Here are the steps to be taken after that:
     ```
 
 ## Live Preview
-Try it out at: 
+Try it out at: https://aniqjaved.github.io/github-basics/index.html
 
 
 
 ## Code Of Conduct 📜
 
-To maintain a safe and inclusive space for everyone to learn and grow, contributors are advised to follow the [Code of Conduct](https://github.com/AniqJaved/Weather-Web-Server/blob/master/CODE_OF_CONDUCT.md).
+To maintain a safe and inclusive space for everyone to learn and grow, contributors are advised to follow the [Code of Conduct](https://github.com/AniqJaved/github-basics/blob/master/CODE_OF_CONDUCT.md).
 
 
 ## Contribution is fun! ✌🏼
 
 If you have any feedback or suggestions please reach out to me.  
 
-In order to make a hassle-free environment, I implore you all (while contributing) to follow the instructions [Contributing Guidelines](https://github.com/AniqJaved/Weather-Web-Server/blob/master/CONTRIBUTING.md)!
+In order to make a hassle-free environment, I implore you all (while contributing) to follow the instructions [Contributing Guidelines](https://github.com/AniqJaved/github-basics/blob/master/CONTRIBUTING.md)!
 
-You can create a <a href="https://github.com/AniqJaved/Weather-Web-Server/issues">issue</a> and mention there , which new features or extension can make this Project more good.
+You can create a <a href="https://github.com/AniqJaved/github-basics/issues">issue</a> and mention there , which new features or extension can make this Project more good.
 
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -83,6 +83,6 @@ You can create a <a href="https://github.com/AniqJaved/Weather-Web-Server/issues
 <p align="center">
   
 	
-<a href="https://github.com/AniqJaved/Weather-Web-Server/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=AniqJaved/Weather-Web-Server" />
+<a href="https://github.com/AniqJaved/github-basics/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=AniqJaved/github-basics" />
 </a>
